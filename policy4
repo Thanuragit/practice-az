@@ -1,0 +1,13 @@
+{
+  "mode":"All",
+  "policyRule": {
+    "if": {
+      "not": {
+        "field":"location",
+        "in": "[parameters('allowedlocations')]"
+      }
+    },
+    "then": {
+      "effect":"deny"
+    }
+  },
