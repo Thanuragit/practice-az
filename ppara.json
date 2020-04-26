@@ -1,10 +1,8 @@
 {
-    "parameter": {
-        "allowedlocations": {
-            "type": "Array",
-            "metadata": {
-                "description": "goodjobdude"
-            }
+    "allowedlocations": {
+        "type": "array",
+        "metadata": {
+            "description": "woooow"
         }
     }
 }
