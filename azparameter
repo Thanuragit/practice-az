@@ -1,0 +1,12 @@
+{
+  "parameters": {
+   "allowedlocations": {
+     "type":"Array",
+     "metadata": {
+       "description": "bumble",
+       "displayName": "bummblep"
+     },
+     "defaultValue": ["EeastUs"]
+   }
+  }
+}
